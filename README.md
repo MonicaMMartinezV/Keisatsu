@@ -15,4 +15,15 @@ Pero para hacer respetar este código y otras leyes creadas posteriormente se co
 
 - Este programa solo abarcará los puestos mencionados anteriormente y una sección de personal para ingresar datos generales. El agente de policía solo podrá asignar delincuentes a celdas y el policía de tránsito, multas a delincuentes. Además de esto podrá asignar un delincuente a cualquiera de las dos funciones principales; también realizará funciones relacionadas al contexto como es la generación de un folio, etc. Lo que no podrá hacer, es un historial de multas y fuera de lo dicho anteriormente no realizara ninguna otra acción adicional. 
 
-- 
+## Instrucciones
+Para abrir este programa y correrlo puede hacerse de 2 maneras: por medio de la terminal o abrirlo por medio de alguna aplicación que maneje el lenguaje de c++. 
+
+- Por medio de la terminal tendrás que seguir las siguientes instrucciones: 
+  Descarga el archivo, abre la línea de comandos y abre el explorador de datos. Después ubicas donde está el programa dentro de la carpeta descargada. Después introduces   cd   y seguido de eso en el explorador de archivos copias el “path” o la dirección del archivo en donde está el programa descargado. La copias y pegas a lado del cd que introdujiste anteriormente. Le das enter y comienza la ejecución del programa. 
+
+- Por medio de alguna aplicación que maneje el lenguaje de c++ tendrás que seguir las siguientes instrucciones: 
+  Primero deberás descargar el archivo que contiene el programa, después descargar tu aplicación. 
+  Aplicación recomendada: https://code.visualstudio.com/
+  En este link podrás descargar la yo use. Abres el archivo con todo el programa y das a correr en la terminal. Específicamente esta aplicación permite correr en terminal directamente dentro de esta. 
+
+Sin importar que instrucción sigas cuando ya estes dentro, sigues las instrucciones que te indica el programa en c++, lee y llena todo lo que se pida. Nunca hagas un envió de información sin haber puesto los datos correspondientes. Se deben de responder a las preguntas y elegir opciones que aparecen en el programa, además de contestar lo que se pide en cada sección. Este programa tiene instrucciones claras de cada función, esto permitirá que no sea dificl su ejecucuión. No usa bibliotecas que se necesitan descargar, solo se usan las predeterminadas o ya estan incluidas en c++.
