@@ -20,7 +20,7 @@ Para abrir este programa y correrlo puede hacerse de 2 maneras: por medio de la 
 
 - Por medio de la terminal tendrás que seguir las siguientes instrucciones: 
 
-  Descarga el archivo, abre la línea de comandos y abre el explorador de datos. Después ubicas donde está el programa dentro de la carpeta descargada. Después introduces  cd   y seguido de eso en el explorador de archivos copias el “path” o la dirección del archivo en donde está el programa descargado. La copias y pegas a lado del cd que introdujiste anteriormente. Le das enter y comienza la ejecución del programa. 
+  Descarga el archivo, abre la línea de comandos y abre el explorador de datos. Después ubicas donde está el programa dentro de la carpeta descargada. Después introduces cd y seguido de eso en el explorador de archivos copias el “path” o la dirección del archivo en donde está el programa descargado. La copias y pegas a lado del cd que introdujiste anteriormente. Le pones main.exe sin el cd al principio y das enter y comienza la ejecución del programa. 
 
 - Por medio de alguna aplicación que maneje el lenguaje de c++ tendrás que seguir las siguientes instrucciones: 
 
